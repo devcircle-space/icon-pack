@@ -1,0 +1,16 @@
+{
+  "name": "icon-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fix-icons": "npx oslllo-svg-fixer -s ./src/icons/fi -d ./src/icons/fi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fantasticon": "^2.0.0",
+    "oslllo-svg-fixer": "^2.2.0"
+  }
+}
