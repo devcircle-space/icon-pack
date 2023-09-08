@@ -11,3 +11,10 @@
   font-weight: 800;
   src: url("../fonts/Acumin-BdPro.woff") format("woff");
 }
+
+@font-face {
+  font-family: "Acumin Pro";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/Acumin-Pro-Black.otf") format("otf");
+}
