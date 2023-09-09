@@ -27,3 +27,12 @@ span[class*=" ip-"]:before {
 .ip-fi-chevron-down:before {
   content: "\f103";
 }
+.ip-fi-info:before {
+  content: "\f104";
+}
+.ip-fi-x-circle:before {
+  content: "\f105";
+}
+.ip-fi-x:before {
+  content: "\f106";
+}
